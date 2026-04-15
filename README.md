@@ -58,12 +58,12 @@ I focus not only on building systems but also on **securing them from real-world
 
 ## 🔐 Cybersecurity  
 <p>
-SIEM • Threat Hunting • Vulnerability Assessment • Network Security  
+SIEM • Threat Hunting • Vulnerability Assessment • Network Security • OSINT Framework • OWASP
 </p>
 
 ## ☁️ Deployment & Cloud  
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,render,docker" />
+<img src="https://skillicons.dev/icons?i=vercel,render,docker"/>
 </p>
 
 ## 🛠️ Tools & Platforms  
