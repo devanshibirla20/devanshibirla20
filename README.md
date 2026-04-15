@@ -1,13 +1,87 @@
-# 💫 About Me:
-<br>Hey, I'm Devanshi 👩‍💻  <br>A Cybersecurity enthusiast and Full Stack Developer passionate about building secure and scalable applications.<br><br>🔭 I’m currently working on  <br>Cybersecurity projects, backend systems, and real-world web applications  <br><br>🌱 I’m currently learning  <br>Defensive Security, Ethical Hacking, Network Security, Backend Development, and System Design  <br><br>👯 I’m looking to collaborate on  <br>Cybersecurity tools, web applications, and open-source projects  <br><br>🤝 I’m looking for help with  <br>Advanced security practices, and backend scaling   <br><br>⚡ Fun fact  <br>I don’t just build applications — I focus on making them secure 🔐
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Devanshi%20Birla&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast+🔐;Full+Stack+Developer+💻;Building+Secure+Applications+🚀;Always+Learning+New+Things+✨" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DevanshiBirla) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Devanshibirla20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devanshibirla20@gmail.com) 
+# 👩‍💻 About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+Hey, I'm **Devanshi** 👋  
+A **Cybersecurity enthusiast + Full Stack Developer** passionate about building **secure, scalable, and real-world applications**.
 
+- 🔭 Working on: Cybersecurity projects & backend systems  
+- 🌱 Learning: Defensive Security, Ethical Hacking, Network Security, System Design  
+- 👯 Open to: Open-source & security-focused collaborations  
+- 🤝 Need help with: Advanced security practices & backend scaling  
+- ⚡ Fun fact: *I don’t just build apps — I secure them* 🔐  
 
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/DevanshiBirla"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/Devanshibirla20"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:devanshibirla20@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+🔐 **Secure Web Application & Threat Hardening**  
+→ Built a secure web app with protection against common vulnerabilities  
+
+🧪 **Vulnerability Research & Reporting System**  
+→ Identifies, analyzes, and reports security flaws efficiently  
+
+🚨 **Security Monitoring & Incident Response System**  
+→ Simulates real-world SOC workflows using SIEM concepts  
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,react,nodejs,flask,fastapi,mongodb,docker,git,github,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshibirla20&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devanshibirla20&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshibirla20&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devanshibirla20/devanshibirla20/output/snake.svg" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devanshibirla20&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<!-- 💡 Footer -->
+<p align="center">
+  ⚡ *“Secure code is not an option, it's a necessity.”* 🔐
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
