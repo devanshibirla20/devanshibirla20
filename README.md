@@ -48,7 +48,7 @@ I focus not only on building systems but also on **securing them from real-world
 
 ## ⚙️ Backend  
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,python" />
 </p>
 
 ## 🗄️ Databases  
@@ -58,20 +58,18 @@ I focus not only on building systems but also on **securing them from real-world
 
 ## 🔐 Cybersecurity  
 <p>
-SIEM • Threat Hunting • Vulnerability Assessment • Network Security • OSINT Framework • OWASP
+SIEM • Threat Hunting • Vulnerability Assessment • Network Security • OSINT • OWASP Top 10
 </p>
 
 ## ☁️ Deployment & Cloud  
 <p>
-<img src="https://skillicons.dev/icons?i=vercel,render,docker"/>
+<img src="https://skillicons.dev/icons?i=vercel,render,docker" />
 </p>
 
 ## 🛠️ Tools & Platforms  
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux" />
 </p>
-
----
 
 # 🚀 Featured Work  
 
