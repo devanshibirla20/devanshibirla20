@@ -65,23 +65,8 @@ A **Cybersecurity enthusiast + Full Stack Developer** passionate about building 
 
 # 🐍 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devanshibirla20/devanshibirla20/output/snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devanshibirla20/devanshibirla20/output/snake-dark.svg">
+  <img alt="snake graph" src="https://raw.githubusercontent.com/devanshibirla20/devanshibirla20/output/snake.svg">
+</picture>
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devanshibirla20&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-<!-- 💡 Footer -->
-<p align="center">
-  ⚡ *“Secure code is not an option, it's a necessity.”* 🔐
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
